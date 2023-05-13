@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is recording mode</description>
+   <name>Testcase1_RecordMode</name>
+   <tag>@sanity</tag>
+   <comment></comment>
+   <testCaseGuid>b54cb337-92c0-4200-82bf-d33f13e9f4fe</testCaseGuid>
+</TestCaseEntity>

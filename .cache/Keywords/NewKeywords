@@ -1,0 +1,43 @@
+{
+  "keywordFileContentHash": "CDEA4EB4C6558026BCADA2FADA05CA48",
+  "keywordClasses": [
+    {
+      "name": "NewKeywords",
+      "keywordMethods": [
+        {
+          "name": "sum",
+          "parameters": [
+            {
+              "name": "a",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "b",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "int",
+                "unresolvedClassName": "int",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": true,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
